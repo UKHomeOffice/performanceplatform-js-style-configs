@@ -1,0 +1,29 @@
+{
+  "name": "performanceplatform-js-style-configs",
+  "version": "0.0.1",
+  "description": "Common settings for Javascript static analysis",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alphagov/performanceplatform-js-style-configs"
+  },
+  "author": {
+    "name": "Government Digital Service developers",
+    "email": "govuk-dev@digital.cabinet-office.gov.uk"
+  },
+  "engines": {
+    "node": "0.12.0"
+  },
+  "devDependencies": {
+    "jscs": "1.11.3",
+    "jshint": "2.6.0"
+  },
+  "bugs": {
+    "url": "https://github.com/alphagov/performanceplatform-js-style-configs/issues"
+  },
+  "homepage": "https://github.com/alphagov/performanceplatform-js-style-configs",
+  "dependencies": {
+    "jscs": "1.11.3",
+    "jshint": "2.6.0"
+  }
+}
